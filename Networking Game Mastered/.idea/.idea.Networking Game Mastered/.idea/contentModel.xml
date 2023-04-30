@@ -545,6 +545,12 @@
         <e p="Scripts" t="Include">
           <e p="ConnectToServer.cs" t="Include" />
           <e p="CreateRoomMenu.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="PlayerListing.cs" t="Include" />
+          <e p="PlayerListingMenu.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
+          <e p="RoomListing.cs" t="Include" />
+          <e p="RoomListingsMenu.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Documentation" t="Include" />
