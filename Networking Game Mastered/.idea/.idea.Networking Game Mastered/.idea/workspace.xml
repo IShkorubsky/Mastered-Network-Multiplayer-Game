@@ -48,8 +48,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ConnectToServer.cs" />
         <option value="$PROJECT_DIR$/Assets/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerListingMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
       </list>
     </option>
   </component>
@@ -107,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682847739100</updated>
-      <workItem from="1682847762856" duration="19508000" />
+      <workItem from="1682847762856" duration="20690000" />
     </task>
     <servers />
   </component>
